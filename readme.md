@@ -129,6 +129,7 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## Ferramentas
 
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/)
 [![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-blue?style=for-the-badge&logo=amazon-webservices&logoColor=white)](https://aws.amazon.com/bedrock/)
+[![Anthropic Claude 3 Haiku](https://img.shields.io/badge/Anthropic%20Claude%203%20Haiku-violet?style=for-the-badge&logo=markdown&logoColor=white)](https://www.anthropic.com/)
