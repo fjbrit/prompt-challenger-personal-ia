@@ -30,7 +30,7 @@ Regra 3: Tipo
 -	HIIT	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
 
 Regra 4: Alimentação
-Forneça um plano alimentar balanceado, que contenha café da manhã, almoço, lanches e jantar. Tudo de acordo com a situação fisíca atual de cada usuário, respeitando seu momento atual e suas nescessidades
+Forneça um plano alimentar balanceado, que contenha café da manhã, almoço, lanches e jantar. Tudo de acordo com a situação fisíca atual de cada usuário, respeitando seu momento atual de cada individuo atendido pelo programa e suas nescessidades
 
 # resultado esperado
-com base nos valores informados na área de variáveis e com as guidelines, crie um treino ideal para a pessoa que corresponde a combinação desses três valores
+com base nos valores informados na área de variáveis e com as guidelines, crie um treino ideal para a pessoa que corresponde a combinação desses três valores. Por fim forneça opções de alimentação para o dia que vá de encontro e atenda cada um dos tipos corporeos atendidos: café da manhã, almoço, lanches, sucos e jantar.
