@@ -107,8 +107,8 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
-
+4. **Use o prompt** do assistente para gerar um plano de treino personalizado.
+5. **Sugerir opções de alimentação** café da manhã, almoço, lanche e jantar, tudo que vá de encontro com o objetivo e a atual condição fisica do usuário
 ---
 
 ## 📖 Material de Apoio
@@ -122,12 +122,12 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## 🎯 Prompt de Resposta Proposto
 
-**Contatos**
+## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiojbrito)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fjbrit)
 
-Ferramentas
+## Ferramentas
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/)
