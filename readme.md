@@ -121,3 +121,14 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+**Contatos**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiojbrito)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fjbrit)
+
+Ferramentas
+
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-purple?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/)
+[![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-blue?style=for-the-badge&logo=amazon-webservices&logoColor=white)](https://aws.amazon.com/bedrock/)
